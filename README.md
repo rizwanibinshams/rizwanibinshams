@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Muhammed Rizwan P
+
 🌟 Who I Am:
+
 A passionate MERN Stack Developer with a strong focus on building modern, efficient, and scalable web applications.
 
 💻 What I Do:
@@ -8,16 +10,19 @@ A passionate MERN Stack Developer with a strong focus on building modern, effici
 Proficient in MongoDB, Express.js, React, and Node.js.
 Experienced in designing user-friendly interfaces with HTML, CSS, and JavaScript.
 Skilled in backend development, API integration, and database management.
+
 🚀 What Drives Me:
 
 Constantly learning and embracing new technologies to improve my craft.
 Solving real-world problems through technology and innovation.
 Contributing to open-source projects and collaborating with like-minded developers.
+
 📈 What I’ve Accomplished:
 
-Delivered responsive and functional projects like [Project Name 1] and [Project Name 2].
+Delivered responsive and functional projects like geradfashion.shop and fliqu.in
 Proficient in Git for version control and Agile methodologies for project management.
 Hands-on experience with deploying applications on platforms like Heroku and AWS.
+
 🌱 What I’m Learning:
 Currently exploring Next.js and enhancing my skills in TypeScript to further expand my expertise.
 
